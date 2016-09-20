@@ -1,5 +1,4 @@
-# aws-cloudwatch-put-ec2-metric
-AWS CloudWatchカスタムメトリックスにEC2インスタンスのプロセス死活監視、ディスク使用率、iノード使用率を追加するスクリプト
+# AWS CloudWatchカスタムメトリックスにEC2インスタンスのプロセス死活監視、ディスク使用率、iノード使用率を追加するスクリプト
 Add The Custom Metrics of EC2 Instance in AWS CloudWatch
 
 http://qiita.com/na0AaooQ/items/9dc3649e0bf4b0193ef9
